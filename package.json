@@ -1,0 +1,23 @@
+{
+  "name": "atv1",
+  "version": "1.0.0",
+  "description": "tabuada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHMA2003/pi.git"
+  },
+  "author": "Pedro Henrique Motta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHMA2003/pi/issues"
+  },
+  "homepage": "https://github.com/PHMA2003/pi#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
